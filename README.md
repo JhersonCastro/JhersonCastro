@@ -6,8 +6,9 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like C#
 # NICE TO MEET YOU ^^
-  [Check out my progress!](https://www.codedex.io/@Bucket/30-nites-of-code)  
   ![@Bucket #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Bucket)
+
+  [![Jherson's GitHub stats](https://github-readme-stats.vercel.app/api?username=JhersonCastro)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 JhersonCastro/JhersonCastro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
