@@ -9,7 +9,7 @@
   ![@Bucket #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Bucket)
 
 ### GitHub Stats
-[![Jherson's GitHub stats](https://github-readme-stats.vercel.app/api?username=JhersonCastro)](https://github.com/anuraghazra/github-readme-stats)
+![JhersonCastro's GitHub stats](https://github-readme-stats.vercel.app/api?username=JhersonCastro&show_icons=true&theme=tokyonight)
 </a>
 <br />
 <a href="https://github.com/JhersonCastro?tab=repositories">
