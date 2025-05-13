@@ -1,4 +1,4 @@
-FUCK YOU I HATE NIGGERS
+#FORNITE 
 # NICE TO MEET YOU ^^
   ![@Bucket #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Bucket)
 
