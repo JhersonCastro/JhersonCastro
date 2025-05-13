@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @JhersonCastro
-- 👀 I’m interested in Web Dev, Desktop Dev, and Unity (why not?)
-- 🌱 I’m currently learning C#, SQL, JS
-- 💞️ I’m looking to collaborate with you <3
-- 📫 How to reach me: Just typing me, I always response
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I like C#
+FUCK YOU I HATE NIGGERS
 # NICE TO MEET YOU ^^
   ![@Bucket #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Bucket)
 
