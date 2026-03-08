@@ -1,6 +1,4 @@
 # DEVELOPING A LIFE
-# NICE TO MEET YOU ^^
-  ![@Bucket #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Bucket)
 
 ### GitHub Stats
 [![My Stats](https://awesome-github-stats.azurewebsites.net/user-stats/jhersoncastro?cardType=level&theme=github-dark&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
