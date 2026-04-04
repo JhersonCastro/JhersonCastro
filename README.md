@@ -7,13 +7,14 @@
   <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
   <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
-  <img src="https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge" />
   <img src="https://img.shields.io/badge/.NET%20MAUI-512BD4?style=for-the-badge" />
   <img src="https://img.shields.io/badge/xUnit-512BD4?style=for-the-badge" />
     <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
 
   <br>
+    <img src="https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=for-the-badge" />
+
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
 
